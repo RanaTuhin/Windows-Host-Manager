@@ -1,0 +1,15 @@
+## 📄 Usage
+
+### ▶️ Run the Script
+
+1. Download or clone this repository
+2. Right-click on `add-host.bat`
+3. Select **Run as Administrator**
+
+> ⚠️ Administrator privileges are required to modify the Windows hosts file
+
+---
+
+### 🧑‍💻 Add a Domain
+
+After running the script, you’ll be prompted:
